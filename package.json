@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Elinn-16/servidor/issues"
   },
-  "homepage": "https://github.com/Elinn-16/servidor#readme"
+  "homepage": "https://github.com/Elinn-16/servidor#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.3"
+  }
 }
